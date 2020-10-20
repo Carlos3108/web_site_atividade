@@ -11,7 +11,7 @@ function maiorIgual() {
     } else if (n1 == n2) {
         respostas.innerHTML = "Os números são iguais";
     } else {
-        respostas.innerHTML = "Falta um número";
+        respostas.innerHTML = "Por favor digite um número";
     }
 }
 
