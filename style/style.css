@@ -96,6 +96,7 @@ footer p {
     margin: auto;
     border-radius: 10px;
     align-items: center;
+    text-align: center;
 }
 
 .formulario label {
@@ -112,6 +113,12 @@ footer p {
 }
 
 .formulario button {
+    padding: 0;
+    margin: auto;
+    display: flex;
+}
+
+.formulario select {
     padding: 0;
     margin: auto;
     display: flex;
